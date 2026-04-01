@@ -1,5 +1,12 @@
-//Feito por João Pedro de França Assalti
-//Estrutura de Dados Atv n1-3
+/*----------------------------------------------------------------------------------*/
+/*                                FATEC-Ipiranga                                    */        
+/*                            ADS - Estrutura de Dados                              */
+/*                             Id da Atividade: N1-3                                */
+/*             Objetivo: Simular a Hp12C                                            */
+/*                                                                                  */
+/*                                  Autor: João Pedro de França Assalti             */
+/*                                                                   Data:31/03/2026*/
+/*----------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 #include <stdlib.h>
